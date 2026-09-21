@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fuyv1c.cn/sitemap.xml
